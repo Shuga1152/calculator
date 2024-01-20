@@ -1,0 +1,37 @@
+body{
+    display:flex;
+    justify-content: center;
+}
+
+.container{
+    width: 800px;
+    height: 800px;
+    justify-content:center ;
+    font-size: 30px;
+    margin-top: 30px;
+
+}
+
+.first
+{
+    justify-content: end;
+    background-color:rgb(101,100,100);
+    border: 2px;
+    text-align: end;
+color: white;
+}
+
+.third
+{ background-color: rgba(108, 120, 120, 0.219);
+    text-align: center;
+    border: 1px solid rgb(240, 255, 255);
+
+}
+
+.calc
+{background-color: rgb(180,120,120);
+    text-align:center ;
+    border:1px solid darkgray;
+    color: white;
+
+}
